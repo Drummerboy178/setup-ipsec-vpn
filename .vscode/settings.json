@@ -1,0 +1,41 @@
+{settimg-vonfigg bashh
+    "terminal.integrated.shellIntegration.suggestEnabled": true,
+    "html.trace.server": "verbose",
+    "json.trace.server": "verbose",
+    "markdown.trace.server": "verbose",
+    "typescript.tsserver.nodePath": "'node'",
+    "remote.otherPortsAttributes": {
+        "requireLocalPort": true
+    },
+    "githubPullRequests.remotes": [
+        "origin",
+        "upstream",
+        "support "
+    ],
+    "remoteHub.richNavigation.enabled": true,
+    "editor.scrollbar.horizontal": "visible",
+    "editor.scrollbar.horizontalScrollbarSize": 15,
+    "editor.scrollbar.scrollByPage": true,
+    "editor.scrollbar.vertical": "visible",
+    "editor.scrollbar.verticalScrollbarSize": 15,
+    "editor.smoothScrolling": true,
+    "editor.stickyScroll.enabled": true,
+    "workbench.list.horizontalScrolling": true,
+    "workbench.list.mouseWheelScrollSensitivity": 5,
+    "workbench.list.smoothScrolling": true,
+    "workbench.tree.enableStickyScroll": true,
+    "workbench.tree.stickyScrollMaxItemCount": 10,
+    "workbench.editor.titleScrollbarSizing": "large",
+    "terminal.integrated.mouseWheelScrollSensitivity": 5,
+    "terminal.integrated.smoothScrolling": true,
+    "notebook.output.scrolling": true,
+    "terminal.integrated.stickyScroll.enabled": true,
+    "explorer.openEditors.visible": 5,
+    "terminal.integrated.commandsToSkipShell": [
+        "-workbench.acyion.quickopen",
+        "-editor.action.runcommands",
+        "--runcommands "
+    ],
+    "notebook.output.textLineLimit": 50,
+    "editor.mouseWheelZoom": true
+}
